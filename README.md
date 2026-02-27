@@ -27,11 +27,13 @@
 
 <!-- ── SECTION 3 · Profile View Counter + Follower Badge ──── -->
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=AyonMandal&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/AyonMandal?style=for-the-badge&color=bb9af7&labelColor=1a1b27&logo=github&label=FOLLOWERS)](https://github.com/AyonMandal?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/AyonMandal?style=for-the-badge&color=9ece6a&labelColor=1a1b27&logo=github&label=TOTAL+STARS)](https://github.com/AyonMandal)
-
+  <img src="https://komarev.com/ghpvc/?username=AyonMandal&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/AyonMandal?tab=followers">
+    <img src="https://img.shields.io/github/followers/AyonMandal?style=for-the-badge&color=bb9af7&labelColor=1a1b27&logo=github&label=FOLLOWERS" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/AyonMandal">
+    <img src="https://img.shields.io/github/stars/AyonMandal?style=for-the-badge&color=9ece6a&labelColor=1a1b27&logo=github&label=TOTAL+STARS" alt="GitHub stars" />
+  </a>
 </div>
 
 ---
@@ -166,15 +168,17 @@ achievements:
 ## 🤝 Connect With Me
 
 <div align="center">
-
-  <!-- ✏️  Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_URL)
-
-  <!-- ✏️  Replace YOUR_EMAIL@gmail.com with your actual Gmail address -->
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyonMandal)
-
+  <!-- ✏️  Replace YOUR_LINKEDIN_URL below with your actual LinkedIn profile URL -->
+  <a href="https://YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- ✏️  Replace YOUR_EMAIL@gmail.com below with your actual Gmail address -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/AyonMandal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <!-- ── SECTION 11 · Animated Wave Footer ─────────────────── -->
