@@ -7,7 +7,7 @@
 <!-- ── SECTION 1 · Animated Wave Header ───────────────────── -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Ayon%20Mandal&fontSize=72&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Automation%20Developer&descSize=20&descAlignY=58&animation=fadeIn&fontAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Ayon%20Mandal&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Automation%20Developer&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn&fontAlign=50"
     width="100%"
     alt="Ayon Mandal"
   />
