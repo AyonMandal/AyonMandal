@@ -112,6 +112,17 @@ achievements:
   </a>
 </div>
 
+<!-- ── SECTION 7b · Contribution Timeline ────────────────── -->
+<div align="center">
+  <a href="https://github.com/AyonMandal">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AyonMandal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f7"
+      width="100%"
+      alt="Contribution Timeline"
+    />
+  </a>
+</div>
+
 ---
 
 <!-- ── SECTION 8 · Featured Projects ─────────────────────── -->
