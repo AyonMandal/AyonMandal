@@ -91,7 +91,10 @@ achievements:
 **Frontend & Mobile**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,sass&theme=dark&perline=8" alt="Frontend and Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,sass,firebase,storybook&theme=dark&perline=8" alt="Frontend and Mobile" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
 </p>
 
 <br/>
