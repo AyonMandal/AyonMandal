@@ -58,9 +58,6 @@ focus:
   - Full-stack web applications
   - Workflow automation
 
-currently_building:
-  - Social networking app   → React Native
-
 interests:
   - Clean architecture & design patterns
   - Performance optimization
