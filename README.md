@@ -169,7 +169,7 @@ achievements:
 
 <div align="center">
   <!-- ✏️  Replace YOUR_LINKEDIN_URL below with your actual LinkedIn profile URL -->
-  <a href="https://YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ayon-mandal-b3b723175/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- ✏️  Replace YOUR_EMAIL@gmail.com below with your actual Gmail address -->
