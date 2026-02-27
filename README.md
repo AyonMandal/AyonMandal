@@ -7,7 +7,7 @@
 <!-- ── SECTION 1 · Animated Wave Header ───────────────────── -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Ayon%20Mandal&fontSize=72&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Systems%20Developer&descSize=20&descAlignY=58&animation=fadeIn&fontAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Ayon%20Mandal&fontSize=72&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Automation%20Developer&descSize=20&descAlignY=58&animation=fadeIn&fontAlign=50"
     width="100%"
     alt="Ayon Mandal"
   />
@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Proficient+in+full-stack+web+development+%F0%9F%92%BB;Crafting+performant+C%2B%2B+systems+%E2%9A%99%EF%B8%8F;Engineering+beautiful+web+experiences+%F0%9F%8C%90;Shipping+real+products+with+real+impact+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Proficient+in+full-stack+web+development+%F0%9F%92%BB;Automating+workflows+to+save+time+%F0%9F%A4%96;Engineering+beautiful+web+experiences+%F0%9F%8C%90;Shipping+real+products+with+real+impact+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
