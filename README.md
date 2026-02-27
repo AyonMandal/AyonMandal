@@ -173,7 +173,7 @@ achievements:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- ✏️  Replace YOUR_EMAIL@gmail.com below with your actual Gmail address -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ayonriju201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AyonMandal">
