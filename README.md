@@ -45,12 +45,11 @@ pronouns:  he/him
 
 focus:
   - Cross-platform mobile development  # React Native + Flutter
-  - Systems programming in C++
   - Full-stack web applications
+  - Workflow automation
 
 currently_building:
   - Social networking app   → React Native
-  - Music streaming clone   → C++ (Spotify-inspired)
 
 interests:
   - Clean architecture & design patterns
@@ -71,7 +70,7 @@ achievements:
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python&theme=dark&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=8" alt="Languages" />
 </p>
 
 **Frontend & Mobile**
@@ -122,10 +121,6 @@ achievements:
 <div align="center">
   <a href="https://github.com/AyonMandal/social_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=social_app&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="social_app" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AyonMandal/spotify_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=spotify_clone&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="spotify_clone" />
   </a>
 </div>
 
