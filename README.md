@@ -149,13 +149,13 @@ achievements:
 ---
 
 <!-- ── SECTION 9 · GitHub Trophies ───────────────────────── -->
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AyonMandal&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-×3-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-×3-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/YOLO-f7768e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Quickdraw-9ece6a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Quickdraw" />
 </div>
 
 ---
