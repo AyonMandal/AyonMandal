@@ -118,33 +118,32 @@ achievements:
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AyonMandal/social_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=social_app&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="social_app" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AyonMandal/FavoritePlaceApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=FavoritePlaceApp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="FavoritePlaceApp" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AyonMandal/ChromeExtensionWithTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=ChromeExtensionWithTS&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ChromeExtensionWithTS" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AyonMandal/Natours">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=Natours&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Natours" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AyonMandal/MoviesAppInReact">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyonMandal&repo=MoviesAppInReact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="MoviesAppInReact" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎨 Natours</h3>
+        <p>Advanced CSS &amp; Sass project featuring<br/>modern design patterns and animations</p>
+        <a href="https://github.com/AyonMandal/Natours">
+          <img src="https://img.shields.io/badge/View%20Repo-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/github/languages/top/AyonMandal/Natours?style=flat-square&color=bb9af7&labelColor=1a1b27" alt="Language" />
+        <img src="https://img.shields.io/github/stars/AyonMandal/Natours?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/AyonMandal/Natours?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Last Commit" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🎬 MoviesAppInReact</h3>
+        <p>React-based movie discovery app<br/>with search and filtering features</p>
+        <a href="https://github.com/AyonMandal/MoviesAppInReact">
+          <img src="https://img.shields.io/badge/View%20Repo-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/github/languages/top/AyonMandal/MoviesAppInReact?style=flat-square&color=bb9af7&labelColor=1a1b27" alt="Language" />
+        <img src="https://img.shields.io/github/stars/AyonMandal/MoviesAppInReact?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/AyonMandal/MoviesAppInReact?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Last Commit" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
