@@ -114,11 +114,33 @@ achievements:
 
 <!-- ── SECTION 7b · Contribution Timeline ────────────────── -->
 <div align="center">
+
+  <p><b>📅 View contributions by year</b></p>
+
+  <a href="https://github.com/AyonMandal?tab=overview&from=2022-01-01&to=2022-12-31">
+    <img src="https://img.shields.io/badge/2022-1a1b27?style=for-the-badge&labelColor=1a1b27&color=565f89" alt="2022" />
+  </a>
+  <a href="https://github.com/AyonMandal?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/2023-1a1b27?style=for-the-badge&labelColor=1a1b27&color=565f89" alt="2023" />
+  </a>
+  <a href="https://github.com/AyonMandal?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024-1a1b27?style=for-the-badge&labelColor=1a1b27&color=7aa2f7" alt="2024" />
+  </a>
+  <a href="https://github.com/AyonMandal?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025-1a1b27?style=for-the-badge&labelColor=1a1b27&color=7aa2f7" alt="2025" />
+  </a>
+  <a href="https://github.com/AyonMandal?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/2026%20%E2%86%90%20current-bb9af7?style=for-the-badge&labelColor=1a1b27&color=bb9af7" alt="2026 current" />
+  </a>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/AyonMandal">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AyonMandal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f7"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AyonMandal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f7&days=180&custom_title=Contribution%20Activity%20%E2%80%94%20Last%206%20Months"
       width="100%"
-      alt="Contribution Timeline"
+      alt="Contribution Timeline — Last 6 Months"
     />
   </a>
 </div>
