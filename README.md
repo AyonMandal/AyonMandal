@@ -13,6 +13,8 @@
   />
 </div>
 
+<br/>
+
 <!-- ── SECTION 2 · Typewriter Subtitle ────────────────────── -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -23,7 +25,7 @@
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ── SECTION 3 · Profile View Counter + Follower Badge ──── -->
 <div align="center">
@@ -36,10 +38,16 @@
   </a>
 </div>
 
+<br/><br/>
+
 ---
+
+<br/>
 
 <!-- ── SECTION 4 · About Me (YAML style) ──────────────────── -->
 ## 🧑‍💻 About Me
+
+<br/>
 
 ```yaml
 username:  AyonMandal
@@ -64,10 +72,16 @@ achievements:
   - YOLO + Quickdraw         # ships fast and fearlessly
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- ── SECTION 5 · Tech Stack ──────────────────────────────── -->
 ## 🛠️ Tech Stack
+
+<br/>
 
 **Languages**
 
@@ -75,11 +89,15 @@ achievements:
   <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=8" alt="Languages" />
 </p>
 
+<br/>
+
 **Frontend & Mobile**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,html,css,sass&theme=dark&perline=8" alt="Frontend and Mobile" />
 </p>
+
+<br/>
 
 **Tools & Platforms**
 
@@ -87,10 +105,16 @@ achievements:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome&theme=dark&perline=8" alt="Tools" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- ── SECTION 6 · GitHub Stats ───────────────────────────── -->
 ## 📊 GitHub Stats
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/AyonMandal">
@@ -100,6 +124,8 @@ achievements:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyonMandal&theme=tokyonight" height="175" alt="Top Languages" />
   </a>
 </div>
+
+<br/><br/>
 
 <!-- ── SECTION 7 · Streak Stats ───────────────────────────── -->
 <div align="center">
@@ -112,10 +138,13 @@ achievements:
   </a>
 </div>
 
+<br/><br/>
+
 <!-- ── SECTION 7b · Contribution Timeline ────────────────── -->
 <div align="center">
-
   <p><b>📅 View contributions by year</b></p>
+
+  <br/>
 
   <a href="https://github.com/AyonMandal?tab=overview&from=2022-01-01&to=2022-12-31">
     <img src="https://img.shields.io/badge/2022-1a1b27?style=for-the-badge&labelColor=1a1b27&color=565f89" alt="2022" />
@@ -132,8 +161,9 @@ achievements:
   <a href="https://github.com/AyonMandal?tab=overview&from=2026-01-01&to=2026-12-31">
     <img src="https://img.shields.io/badge/2026%20%E2%86%90%20current-bb9af7?style=for-the-badge&labelColor=1a1b27&color=bb9af7" alt="2026 current" />
   </a>
-
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/AyonMandal">
@@ -145,10 +175,16 @@ achievements:
   </a>
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- ── SECTION 8 · Featured Projects ─────────────────────── -->
 ## 🚀 Featured Projects
+
+<br/>
 
 <div align="center">
   <table>
@@ -179,10 +215,16 @@ achievements:
   </table>
 </div>
 
+<br/>
+
 ---
 
-<!-- ── SECTION 9 · GitHub Trophies ───────────────────────── -->
+<br/>
+
+<!-- ── SECTION 9 · Achievements ───────────────────────────── -->
 ## 🏆 Achievements
+
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pair%20Extraordinaire-×3-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Pair Extraordinaire" />
@@ -191,17 +233,21 @@ achievements:
   <img src="https://img.shields.io/badge/Quickdraw-9ece6a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Quickdraw" />
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- ── SECTION 10 · Connect ───────────────────────────────── -->
 ## 🤝 Connect With Me
 
+<br/>
+
 <div align="center">
-  <!-- ✏️  Replace YOUR_LINKEDIN_URL below with your actual LinkedIn profile URL -->
   <a href="https://www.linkedin.com/in/ayon-mandal-b3b723175/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- ✏️  Replace YOUR_EMAIL@gmail.com below with your actual Gmail address -->
   <a href="mailto:ayonriju201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -209,6 +255,8 @@ achievements:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+<br/><br/>
 
 <!-- ── SECTION 11 · Animated Wave Footer ─────────────────── -->
 <div align="center">
