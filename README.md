@@ -168,7 +168,7 @@ achievements:
 <div align="center">
   <a href="https://github.com/AyonMandal">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AyonMandal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f7&days=180&custom_title=Contribution%20Activity%20%E2%80%94%20Last%206%20Months"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AyonMandal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f7&days=30&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2030%20Days"
       width="100%"
       alt="Contribution Timeline — Last 6 Months"
     />
