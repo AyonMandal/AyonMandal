@@ -94,7 +94,7 @@ achievements:
 
 <div align="center">
   <a href="https://github.com/AyonMandal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyonMandal&theme=tokyonight" height="175" alt="Ayon's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyonMandal&theme=tokyonight&include_private=true" height="175" alt="Ayon's GitHub Stats" />
   </a>
   <a href="https://github.com/AyonMandal?tab=repositories">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyonMandal&theme=tokyonight" height="175" alt="Top Languages" />
