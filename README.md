@@ -181,7 +181,106 @@ achievements:
 
 <br/>
 
-<!-- ── SECTION 8 · Featured Projects ─────────────────────── -->
+<!-- ── SECTION 8 · Professional Work @ RISA Labs ─────────── -->
+## 💼 Professional Work @ RISA Labs
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-6%2C600%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-245%2B-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="PRs Merged" />
+  <img src="https://img.shields.io/badge/Repos%20Contributed-5-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Repos" />
+  <img src="https://img.shields.io/badge/Active%20Since-Oct%202024-f7768e?style=for-the-badge&labelColor=1a1b27" alt="Active Since" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Repository</th>
+        <th>Stack</th>
+        <th>Commits</th>
+        <th>PRs Merged</th>
+        <th>Role</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/risa-labs-inc/medical-oncology-dashboard"><b>medical-oncology-dashboard</b></a></td>
+        <td>TypeScript · React</td>
+        <td align="center">~2,232</td>
+        <td align="center">185+</td>
+        <td>Core contributor</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/risa-labs-inc/one-risa"><b>one-risa</b></a></td>
+        <td>Python</td>
+        <td align="center">~2,237</td>
+        <td align="center">3</td>
+        <td>Backend contributor</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/risa-labs-inc/pharmacy-dashboard"><b>pharmacy-dashboard</b></a></td>
+        <td>TypeScript · React</td>
+        <td align="center">~1,949</td>
+        <td align="center">9</td>
+        <td>Core contributor</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/risa-labs-inc/oasis-ui"><b>oasis-ui</b></a></td>
+        <td>TypeScript · React</td>
+        <td align="center">~105</td>
+        <td align="center">22</td>
+        <td>Component library author</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/risa-labs-inc/rpa_tools"><b>rpa_tools</b></a></td>
+        <td>Python</td>
+        <td align="center">~98</td>
+        <td align="center">26</td>
+        <td>RPA automation engineer</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
+**`medical-oncology-dashboard`** — Prior Authorization workflow dashboard for oncology practices
+- Built dynamic PA forms, CMM input comparison, insurance modals & PBM eligibility screens
+- Integrated Algolia search with multi-facet filters across worklists
+- Implemented auth-on-file, fax management, events audit trail & external dashboard
+- Delivered analytics tab, notes revamp, hold tables & bulk assign features
+- Managed release workflows across dev → release → prod branches
+
+**`pharmacy-dashboard`** — Standalone pharmacy PA product
+- Built SFTP batch submission module and dynamic submission option mapping
+- Set up CI/CD pipelines for dev and main branches with auto-release tagging
+- Delivered PA form summary modal and dropdown position logic fixes
+
+**`oasis-ui`** — Shared React component library (`risa-oasis-ui` npm package)
+- Authored date picker, pagination, tag with dropdown, horizontal navigation
+- Built radio buttons, multi-line text, tooltip/info icons & modal enhancements
+- Published and maintained versioned releases consumed across all dashboards
+
+**`rpa_tools`** — Browser automation for insurance PA portals
+- Built end-to-end RPA flows for Humana, Cover My Med & PBM portals
+- Implemented BigQuery writes, Firebase uploads & PDF document merging
+- Added prescription API, insurance details API & patient eligibility endpoint
+
+**`one-risa`** — Backend monorepo (Python)
+- Added JWT token enhancements with user ID propagation
+- Built Algolia search filter endpoints for medical order review status & hold-until dates
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ── SECTION 9 · Featured Personal Projects ────────────── -->
 ## 🚀 Featured Projects
 
 <br/>
