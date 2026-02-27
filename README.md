@@ -93,26 +93,32 @@ achievements:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    height="175em"
-    src="https://github-readme-stats.vercel.app/api?username=AyonMandal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7"
-    alt="Ayon's GitHub Stats"
-  />
+  <a href="https://github.com/AyonMandal">
+    <img
+      height="175em"
+      src="https://github-readme-stats.vercel.app/api?username=AyonMandal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7"
+      alt="Ayon's GitHub Stats"
+    />
+  </a>
   &nbsp;&nbsp;
-  <img
-    height="175em"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AyonMandal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/AyonMandal?tab=repositories">
+    <img
+      height="175em"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=AyonMandal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 
 <!-- ── SECTION 7 · Streak Stats ───────────────────────────── -->
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AyonMandal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89"
-    width="580"
-    alt="GitHub Streak Stats"
-  />
+  <a href="https://github.com/AyonMandal">
+    <img
+      src="https://streak-stats.demolab.com?user=AyonMandal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89"
+      width="580"
+      alt="GitHub Streak Stats"
+    />
+  </a>
 </div>
 
 ---
